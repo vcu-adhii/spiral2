@@ -15,3 +15,5 @@ def spiralize(size, n=1):
 
 
 print(spiralize(481, 13))  # test statement
+print(spiralize(501, 15))
+print(spiralize(461, 50))
